@@ -1,0 +1,22 @@
+{
+  "name": "web3-example",
+  "version": "1.0.0",
+  "description": "web3-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkendalldev/web3-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkendalldev/web3-example/issues"
+  },
+  "homepage": "https://github.com/jkendalldev/web3-example#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.11"
+  }
+}
